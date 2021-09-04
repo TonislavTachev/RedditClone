@@ -8,5 +8,5 @@
 <h5>To start the frontend of the project, switch to the <code>client</code> folder and type in the terminal npm start, this will run the frontend</h5>
 
 <h2>Important, in order to test the application the following user is given</h2>
-<h4>username: gegasc</h4>
-<h4>password: parola123</h4>
+<h4>username: <code>gegasc</code></h4>
+<h4>password: <code>parola123</code></h4>
