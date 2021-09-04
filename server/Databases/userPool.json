@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "user_id": "7559ffb6-5b36-47eb-ba47-cc852641a258",
+      "username": "alcatraz",
+      "password": "$2b$10$hPsyzHDppQNMYWec.2aVueadVwo.GWiCHnf7C6BHnusJDxeaDnNQO",
+      "comments": [
+        "ff4f7db9-c8ab-44cc-91b6-b6578ed5fb07",
+        "5d7b3a50-9027-4076-8f53-b13b513b0a0c",
+        "74fe0681-b5c5-428c-b760-b339a8025a1d",
+        "be25a480-f204-496b-9cc8-da4bf7425640",
+        "7722e1fb-84ab-4742-a675-9248e235f9b4",
+        "46494208-d3dd-45b8-9005-d5cc5588fa96",
+        "ef5b614c-feb3-4ab9-81d0-914fe56b3a2d",
+        "6031de2e-8d69-47b0-8ae6-9de252811286",
+        "40a0d5cb-0335-49f3-a454-dbe091262ae8",
+        "cd33429f-77ee-4b9a-9532-750df69521d7"
+      ],
+      "threads": [
+        "fb7b5bf1-7680-4492-ba52-122423a97049",
+        "1b45db83-b72b-4035-b547-445ecac99c56"
+      ]
+    },
+    {
+      "username": "gegasc",
+      "user_id": "7559ffb6-5b36-47eb-ba47-cc85893a1204",
+      "threads": [],
+      "comments": [
+        "3885a696-fd2b-493b-9b0c-2bf7daa4153e",
+        "c8abbf67-dee9-4982-a2fb-de623617ca93"
+      ],
+      "password": "$2b$10$onokwjMekXWcJDG88/Uafu9Jz.h7mYys/rZDC7d.F5a7H0OSZRjWG"
+    }
+  ]
+}

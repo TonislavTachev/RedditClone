@@ -1,0 +1,90 @@
+{
+  "pool": [
+    {
+      "thread_id": "fb7b5bf1-7680-4492-ba52-122423a97049",
+      "title": "My second thread",
+      "text": "This is so exciting",
+      "upvotes": 53,
+      "downvotes": 2,
+      "comments": [
+        {
+          "comment_id": "ff4f7db9-c8ab-44cc-91b6-b6578ed5fb07",
+          "text": "Wassup y'all"
+        },
+        {
+          "comment_id": "5d7b3a50-9027-4076-8f53-b13b513b0a0c",
+          "text": "Feeling better than ever"
+        },
+        {
+          "comment_id": "74fe0681-b5c5-428c-b760-b339a8025a1d",
+          "text": "This is honestly the best comment ever!"
+        },
+        { "comment_id": "be25a480-f204-496b-9cc8-da4bf7425640", "text": "dsa" },
+        { "comment_id": "7722e1fb-84ab-4742-a675-9248e235f9b4", "text": "dsa" },
+        { "comment_id": "46494208-d3dd-45b8-9005-d5cc5588fa96", "text": "dsa" },
+        {
+          "comment_id": "ef5b614c-feb3-4ab9-81d0-914fe56b3a2d",
+          "text": "Is this working?"
+        },
+        {
+          "comment_id": "40a0d5cb-0335-49f3-a454-dbe091262ae8",
+          "text": "dsadsa"
+        }
+      ],
+      "owner": {
+        "user_id": "7559ffb6-5b36-47eb-ba47-cc852641a258",
+        "username": "alcatraz",
+        "comments": [
+          "ff4f7db9-c8ab-44cc-91b6-b6578ed5fb07",
+          "5d7b3a50-9027-4076-8f53-b13b513b0a0c",
+          "74fe0681-b5c5-428c-b760-b339a8025a1d",
+          "be25a480-f204-496b-9cc8-da4bf7425640",
+          "7722e1fb-84ab-4742-a675-9248e235f9b4",
+          "46494208-d3dd-45b8-9005-d5cc5588fa96"
+        ],
+        "threads": [
+          "fb7b5bf1-7680-4492-ba52-122423a97049",
+          "1b45db83-b72b-4035-b547-445ecac99c56"
+        ]
+      }
+    },
+    {
+      "thread_id": "0941098f-d7a3-4451-aef4-65d6e00fdd21",
+      "title": "My first thread",
+      "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      "upvotes": 8,
+      "downvotes": 0,
+      "comments": [
+        {
+          "comment_id": "6031de2e-8d69-47b0-8ae6-9de252811286",
+          "text": "Really nice app!"
+        },
+        {
+          "comment_id": "cd33429f-77ee-4b9a-9532-750df69521d7",
+          "text": "Is this working ?"
+        },
+        {
+          "comment_id": "3885a696-fd2b-493b-9b0c-2bf7daa4153e",
+          "text": "Wow, this is awesome!"
+        },
+        { "comment_id": "c8abbf67-dee9-4982-a2fb-de623617ca93", "text": "ds" }
+      ],
+      "owner": {
+        "user_id": 321,
+        "username": "notAlcatraz",
+        "comments": [
+          "ff4f7db9-c8ab-44cc-91b6-b6578ed5fb07",
+          "5d7b3a50-9027-4076-8f53-b13b513b0a0c",
+          "74fe0681-b5c5-428c-b760-b339a8025a1d",
+          "be25a480-f204-496b-9cc8-da4bf7425640",
+          "7722e1fb-84ab-4742-a675-9248e235f9b4",
+          "46494208-d3dd-45b8-9005-d5cc5588fa96"
+        ],
+        "threads": [
+          "fb7b5bf1-7680-4492-ba52-122423a97049",
+          "1b45db83-b72b-4035-b547-445ecac99c56"
+        ]
+      }
+    }
+  ]
+}
